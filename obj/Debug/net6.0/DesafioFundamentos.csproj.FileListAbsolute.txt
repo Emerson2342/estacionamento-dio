@@ -1,0 +1,14 @@
+F:\Meus Documentos\ws-vscode\.net\Desafios-dio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.exe
+F:\Meus Documentos\ws-vscode\.net\Desafios-dio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.deps.json
+F:\Meus Documentos\ws-vscode\.net\Desafios-dio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.runtimeconfig.json
+F:\Meus Documentos\ws-vscode\.net\Desafios-dio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.dll
+F:\Meus Documentos\ws-vscode\.net\Desafios-dio\DesafioFundamentos\bin\Debug\net6.0\DesafioFundamentos.pdb
+F:\Meus Documentos\ws-vscode\.net\Desafios-dio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+F:\Meus Documentos\ws-vscode\.net\Desafios-dio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfoInputs.cache
+F:\Meus Documentos\ws-vscode\.net\Desafios-dio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.AssemblyInfo.cs
+F:\Meus Documentos\ws-vscode\.net\Desafios-dio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.csproj.CoreCompileInputs.cache
+F:\Meus Documentos\ws-vscode\.net\Desafios-dio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.dll
+F:\Meus Documentos\ws-vscode\.net\Desafios-dio\DesafioFundamentos\obj\Debug\net6.0\refint\DesafioFundamentos.dll
+F:\Meus Documentos\ws-vscode\.net\Desafios-dio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.pdb
+F:\Meus Documentos\ws-vscode\.net\Desafios-dio\DesafioFundamentos\obj\Debug\net6.0\DesafioFundamentos.genruntimeconfig.cache
+F:\Meus Documentos\ws-vscode\.net\Desafios-dio\DesafioFundamentos\obj\Debug\net6.0\ref\DesafioFundamentos.dll

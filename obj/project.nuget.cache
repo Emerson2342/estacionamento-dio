@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "GEzk+JMVk8dNiqRyjBq9YyZ42TNvd3hoIsqUXFBcsHmC612rvT1lPKtkTkvwz/fbOIwof6tMLdjsrAioShVwaw==",
+  "success": true,
+  "projectFilePath": "F:\\Meus Documentos\\ws-vscode\\.net\\Desafios-dio\\DesafioFundamentos\\DesafioFundamentos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MiSsiNhOo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\MiSsiNhOo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\MiSsiNhOo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\MiSsiNhOo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
